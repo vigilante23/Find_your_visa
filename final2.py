@@ -57,7 +57,7 @@ span.css-10trblm.e1nzilvr0
 
 div.css-5rimss.e1nzilvr4
 {
-    margin-left: -12%;
+    text-align: center;
 }
 
 
